@@ -18,7 +18,7 @@
 
 I'm a skilled Flutter Developer with 2+ years of experience specializing in building and maintaining high-quality, scalable mobile applications. I have a strong passion for creating beautiful UIs, delivering an exceptional user experience, and writing clean, efficient code.
 
--   🔭 I’m currently working on **enhancing my portfolio with advanced features**.
+-   🔭 I’m currently expanding my skills into native Android/iOS development to complement my Flutter expertise.
 -   🌱 I’m always learning about **Flutter performance optimization and advanced animations**.
 -   💬 Ask me about **Flutter, Dart, State Management (Bloc), and Clean Architecture**.
 -   📫 How to reach me: **afyala115@gmail.com**
